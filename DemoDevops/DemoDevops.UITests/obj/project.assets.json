@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harshit.sh/Projects/DemoDevops/DemoDevops.UITests/DemoDevops.UITests.csproj",
+      "projectUniqueName": "/Users/harshit.sh/Projects/Testing/hsharma7/DevopsDemo.git/DemoDevops/DemoDevops.UITests/DemoDevops.UITests.csproj",
       "projectName": "DemoDevops.UITests",
-      "projectPath": "/Users/harshit.sh/Projects/DemoDevops/DemoDevops.UITests/DemoDevops.UITests.csproj",
+      "projectPath": "/Users/harshit.sh/Projects/Testing/hsharma7/DevopsDemo.git/DemoDevops/DemoDevops.UITests/DemoDevops.UITests.csproj",
       "packagesPath": "/Users/harshit.sh/.nuget/packages/",
-      "outputPath": "/Users/harshit.sh/Projects/DemoDevops/DemoDevops.UITests/obj",
+      "outputPath": "/Users/harshit.sh/Projects/Testing/hsharma7/DevopsDemo.git/DemoDevops/DemoDevops.UITests/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harshit.sh/.config/NuGet/NuGet.Config"
